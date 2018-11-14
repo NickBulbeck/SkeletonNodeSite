@@ -3,9 +3,9 @@
 # struggling to find employment and, perhaps, needing just a bit of encouragement and 
 # love, and a message of hope. It's also a learning/kata exercise for me.
 #
-# The name ActiveEncouragementSite is to distinguish it from the quick and cheerful
-# WordPress blog I'm going to create with just a single static page and some kind of
-# analytics (if I can). "Active" means that the site on this repo will have javascript-
+# The name ActiveEncouragementSite is to distinguish it from a quick and cheerful
+# WordPress blog I could create with just a single static page and some kind of
+# analytics widget. "Active" means that the site on this repo will have javascript-
 # driven behaviour, and can potentially send people different messages in different
 # circumstances.
 #
