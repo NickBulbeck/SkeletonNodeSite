@@ -3,11 +3,9 @@
 # struggling to find employment and, perhaps, needing just a bit of encouragement and 
 # love, and a message of hope. It's also a learning/kata exercise for me.
 
-# The name ActiveEncouragementSite is to distinguish it from the quick and cheerful
-# WordPress blog I'm going to create with just a single static page and some kind of
-# analytics (if I can). "Active" means that the site on this repo will have javascript-
-# driven behaviour, and can potentially send people different messages in different
-# circumstances.
+# The name SkeletonNodeSite is to distinguish it from more specific and personalised
+# sites I'll create alongside it.
 
-# At the time of writing, I have literally no idea whether either of them will achieve
-# anything, help anyone, or even be read by anyone. But something is worth a try.
+# At the time of last commit, the structure of the repo and the purpose of the site are in
+# a state of flux, as I'm still to decide on the best way of working. But I think I'm
+# close to a settled approach.
