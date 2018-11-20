@@ -1,0 +1,23 @@
+{
+  "name": "skeleton-node-site",
+  "version": "0.0.0",
+  "description": "Does exactly what it says on the tin...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickBulbeck/SkeletonNodeSite.git"
+  },
+  "author": "Nick Bulbeck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NickBulbeck/SkeletonNodeSite/issues"
+  },
+  "homepage": "https://github.com/NickBulbeck/SkeletonNodeSite#readme",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "normalize.css": "^8.0.1"
+  }
+}
