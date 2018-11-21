@@ -1,4 +1,10 @@
 body {
   font-family: sans-serif;
   background-color: #e0e0e0;
+  color:firebrick;
+}
+
+h1 {
+  color:salmon;
+  background-color: yellow;
 }
