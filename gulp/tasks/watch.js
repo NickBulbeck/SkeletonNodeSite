@@ -4,6 +4,8 @@ var gulp = require('gulp'),
 
   gulp.task('watch',function(){
 
+    gulp.start('styles');
+
     browserSync.init({
       notify: false, // stops a wee notification appearing when the page is updated
       server: {
