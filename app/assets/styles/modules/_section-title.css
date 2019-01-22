@@ -7,16 +7,22 @@
     font-size: 3.75rem;
   }
 
-
   strong {
     font-weight: 500;
   }
+
+  &--blue {
+    color: $mainBlue;
+  }
+
 
   &__icon {
     display:block;
     margin-left: auto;
     margin-right:auto;
     margin-bottom:0.9rem;
+    position:relative;
+    top:8px;
 
     @mixin atSmall {
       margin-right:1rem;
@@ -24,7 +30,6 @@
       margin-bottom:0;
       display:inline-block;
     }
-
   }
 
 }
