@@ -4,4 +4,4 @@
 
 # At the time of last commit, the structure of the repo and the purpose of the site are in
 # a state of flux, as I'm still to decide on the best way of working. But I think I'm
-# close to a settled approach.
+# close to a settled approach. 
